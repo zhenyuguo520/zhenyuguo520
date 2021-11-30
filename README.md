@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zhenyuguo520
-- 👀 I’m interested in Garage PC, VC, Fleet Message Service, Fleet Manager Service and other infra tools.
-- 🌱 I’m currently learning Bluetooth Tech. and Docker Tech.
-- 💞️ I’m looking to collaborate on PPOV, Hardware and other infra collaborators.
+- 👀 I’m interested in PNC Lateral and Reroute.
+- 🌱 I’m currently majoring in optimizing lateral performance.
+- 💞️ I’m looking to collaborate on Lateral and Reroute.
 - 📫 How to reach me: zhenyuguo@pony.ai
 
 <!---
